@@ -1,0 +1,11 @@
+{
+  "name": "Slacker",
+  "version": "0.0.0",
+  "description": "Very (simple) package to run your array of functions at an interval",
+  "main": "slacker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mrkev",
+  "license": "MIT"
+}
