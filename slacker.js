@@ -16,13 +16,3 @@ module.exports = (function () {
 
 	return Slacker;
 })();
-
-
-// var arr = [function () {console.log('yo');},
-// 			function () {console.log('yo');},
-// 			function () {console.log('yo');},
-// 			function () {console.log('derp');},
-// 			function () {console.log('yo');}]
-// var s = new module.exports(1000, arr)
-// 
-// s.start();
