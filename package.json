@@ -1,5 +1,5 @@
 {
-  "name": "Slacker",
+  "name": "slacker",
   "version": "0.0.0",
   "description": "Makes your functions run at an interval.",
   "main": "slacker.js",
