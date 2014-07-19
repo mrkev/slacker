@@ -1,8 +1,9 @@
 {
-  "name": "slacker",
+  "name": "ugh",
   "version": "0.0.0",
-  "description": "Makes your functions run at an interval.",
+  "description": "Executes functions at an interval.",
   "main": "slacker.js",
   "author": "mrkev",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords" : ["functions", "interval", "timeout", "execute"]
 }

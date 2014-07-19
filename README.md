@@ -1,19 +1,19 @@
-Slacker
+Ugh
 ========
 
-Cuz running your functions at top speed isn't for everyone.*
+Ugh, now? running functions at top speed isn't for everyone.*
 
 ## Usage
 
 
-    var slacker = require('slacker');
-    var arr = [ function () {console.log('yo');},
-    			function () {console.log('yo');},
-    			function () {console.log('yo');},
+    var senator = require('ugh');
+    var arr = [ function () {console.log('Make budget');},
+    			function () {console.log('Work on budget');},
     			function () {console.log('derp');},
-    			function () {console.log('yo');} ];
+    			function () {console.log('get that budget done');},
+    			function () {console.log('almost...');} ];
     
-    var senator = new Slacker(1000, arr) // interval, function array
+    var senator = new Ugh(1000, arr) // interval, function array
     
     senator.addFunction(function () { console.log('DONE'); });
 
