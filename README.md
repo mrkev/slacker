@@ -1,12 +1,12 @@
 Ugh
 ========
 
-Ugh, now? running functions at top speed isn't for everyone.*
+Now? Ugh. Running functions at top speed isn't for everyone.*
 
 ## Usage
 
 
-    var senator = require('ugh');
+    var Ugh = require('ugh');
     var arr = [ function () {console.log('Make budget');},
     			function () {console.log('Work on budget');},
     			function () {console.log('derp');},
