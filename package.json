@@ -1,6 +1,6 @@
 {
   "name": "ugh",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Executes functions at an interval.",
   "main": "slacker.js",
   "author": "mrkev",
