@@ -1,9 +1,25 @@
 {
   "name": "ugh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Executes functions at an interval.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrkev/ugh.git"
+  },
   "main": "slacker.js",
   "author": "mrkev",
   "license": "MIT",
-  "keywords" : ["functions", "interval", "timeout", "execute"]
+  "keywords": [
+    "functions",
+    "interval",
+    "timeout",
+    "execute"
+  ],
+  "bugs": {
+    "url": "https://github.com/mrkev/ugh/issues"
+  },
+  "homepage": "https://github.com/mrkev/ugh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
