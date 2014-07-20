@@ -46,9 +46,9 @@ dictionary or passing more arguments to `addFunction`.
 				{function: work, args: [ 'Sancho', 500, ['stuff', 'travel'] ]}
 			  ];
 	
-	var senator = new Ugh(500, arr);
-	senator.addFunction(work, 'Foo', 500, ['bars', 'tests', 'debugging']);
-	senator.start();
+	var slacker = new Ugh(500, arr);
+	slacker.addFunction(work, 'Foo', 500, ['bars', 'tests', 'debugging']);
+	slacker.start();
 	
 Output:
 
