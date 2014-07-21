@@ -6,7 +6,7 @@ Now? Ugh. Running functions at top speed isn't for everyone.*
 ## Usage
 
 
-	var Ugh = require('./slacker.js');
+	var Ugh = require('ugh');
 	var arr = [ function () {console.log('Make budget');},
 	            function () {console.log('Work on budget');},
 	            function () {console.log('derp');},
